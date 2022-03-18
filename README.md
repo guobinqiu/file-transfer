@@ -1,15 +1,5 @@
 # Resumable File Upload Demo
 
-### Reference
-
-Frontend
-
-> https://transloadit.com/
-
-Backend
-
-> http://tusd.io/
-
 ### Run
 
 1. Run `go run generateLargeFile` to get a 1GB file for mock purpose.
@@ -65,4 +55,13 @@ Upload ff81c21e2646fa1007d4f0e283a93b0b finished
 [tusd] 2021/01/18 10:57:18 event="ResponseOutgoing" status="204" method="PATCH" path="ff81c21e2646fa1007d4f0e283a93b0b" requestId="" 
 ```
 
+### Reference
+
+Frontend
+
+> https://transloadit.com/
+
+Backend
+
+> http://tusd.io/
 
